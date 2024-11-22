@@ -1,5 +1,5 @@
 # connect4
-this project uses the negamax algorithm to find the best possible moves in connect4, with a bunch of optimizations - making it unbeatable  
+This project uses the negamax algorithm to find the best possible moves in connect4, with a bunch of optimizations - making it unbeatable (although the depth of the algorithm isn't big enough, so it's not exactly "unbeatable", just good at not losing) 
   
 # how to run
-you can't. it's not finished.   
+I haven't made an executable file or anything, so your best bet for now is to just download the project files and compile it yourself
